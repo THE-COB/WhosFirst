@@ -27,9 +27,6 @@ public class MainActivity extends AppCompatActivity {
 			TextView waitText = findViewById(R.id.notTimeText);
 			waitText.setVisibility(View.VISIBLE);
 		}
-		else{
-
-		}
 	}
 
 }
